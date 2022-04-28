@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zwrubel
-- 👀 I’m interested in AI, Machine Learning, Learning programming, maybe software development/engineering??
-- 🌱 I’m currently taking Computer Systems (CSCI 2400) and Discrete Structures (CSCI 2824) at CU Boulder
-- 💞️ I’m looking to collaborate on IDK yet?
+- 👀 I’m interested in AI, Machine Learning, Learning programming, & software development/engineering.
+- 🌱 I’m currently taking Algorithms (CSCI 3104) and Introduction to Data Science with Probability and Statistics (CSCI 3022) at CU Boulder
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
